@@ -1,0 +1,4 @@
+*.pyc
+.*.sw*
+userlist.pickle
+.backup
